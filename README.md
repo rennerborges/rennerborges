@@ -7,7 +7,7 @@ Atualmente estou cursando Tecnologia em sistemas para internet e sou técnico em
 
 <p align="left">🎯 Skills: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>ReactJS</strong>, <strong>Sequelize</strong>, <strong>Node.js</strong> e <strong>PHP</strong>.</p>
 
-<p align="left">📫 Se interessou? Entre em contato comigo por meio de algumas dessas redes socais abaixo! </p>
+<p align="left">📫 Se interessou? Entre em contato comigo por meio de algumas dessas redes sociais abaixo! </p>
 
 <p align="left">
   <a href="mailto:rennerferreira23@gmail.com" alt="Gmail">
