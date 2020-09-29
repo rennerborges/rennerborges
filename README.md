@@ -1,4 +1,4 @@
-<img align="right" src="https://rennerborges.github.io/portfolio/images/favicon/desenvolvedor.png" width="300px">
+<img align="right" src="https://rennerborges.github.io/portfolio/images/favicon/desenvolvedor.png" width="350px">
 <p align="left">Olá, tudo bem? 😜 </p>
 <p align="left">Meu nome é Renner sou um <strong>entusiasta por tecnologia</strong>, <strong>estudante</strong> e <strong>desenvolvedor Full-Stack</strong>.<br>
 Atualmente estou cursando Tecnologia em sistemas para internet e sou técnico em informática. </p>
